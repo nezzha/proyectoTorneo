@@ -16,6 +16,7 @@ public class ProyectoDesarrolloTorneo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new Vista.login().setVisible(true);
     }
     
 }
